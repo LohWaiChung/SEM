@@ -1,2 +1,10 @@
-fuck you jian hui
-welcome to here
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+echoss "My first PHP script!";
+?>
+
+</body>
+</html>
